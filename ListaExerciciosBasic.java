@@ -13,9 +13,6 @@ public class ListaExerciciosBasic {
         this.alternativaDois = alternativaDois;
         this.alternativeTres = alternativeTres;
         this.alternativaQuatro = alternativaQuatro;
-
-       // this.buttonAnswer = buttonAnswer;
-       // this.textAnswer = textAnswer;
     }
 
 
